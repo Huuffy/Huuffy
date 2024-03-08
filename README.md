@@ -6,7 +6,7 @@ I'm a first-year computer engineering student at Vidyavardhini College of Engine
 
 ## Skills
 
-- Programming Languages: Python, HTML, CSS, C, C++,
+- Programming Languages: Python, HTML, CSS, C and C++
 - Areas of Interest: Software Development, Algorithm Design, Web Dev, AIML
 
 
