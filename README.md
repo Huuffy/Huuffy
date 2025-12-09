@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Second-year computer engineering student at Vidyavardhini College of Engineering and Technology, passionate about technology and innovation. Eager to learn and contribute to the field of computer engineering, I'm currently exploring various programming languages and software tools to deepen my understanding and build practical skills.
+I'm a Third-year computer engineering student at Vidyavardhini College of Engineering and Technology, passionate about technology and innovation. Eager to learn and contribute to the field of computer engineering, I'm currently exploring various programming languages and software tools to deepen my understanding and build practical skills.
 
 ## Skills
 
